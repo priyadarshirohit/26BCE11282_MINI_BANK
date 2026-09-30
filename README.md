@@ -35,7 +35,7 @@ cd 26BCE11282_MINI_BANK
 
 3.Run the main program:
 ```
-Mini Bank Account Management System.py
+python Mini Bank Account Management System.py
 ```
 
 >**Note:** keep 'Mini Bank Account Management System.py' and 'bank_module.py' in the same folder, as the main program imports functions from 'bank_module.py'.
